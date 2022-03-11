@@ -1,4 +1,3 @@
-
 # Design Patterns 
 Tasarım kalıpları, yazılım geliştiricilerin yazılım geliştirme sırasında karşılaştıkları 
 genel sorunların çözümüdür. 
